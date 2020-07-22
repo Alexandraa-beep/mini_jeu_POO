@@ -8,4 +8,5 @@ class Game
     @players_left = 10
   end
 
-  ... pas eu le temps de finir ...
+  #... pas eu le temps de finir ...
+end
